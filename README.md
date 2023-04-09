@@ -5,7 +5,7 @@
 
 *In the begin of the game, you are going to become a friend of Lan who is really needing your helps to puzzle the questions of himself.
 
-*Lan is a observing person with profound thoughts, though your mission is to not let him be so negative and depressed with his thoughts. Help him find the truth of life and the meaning of it.
+*Lan is a observing person with profound thoughts, though your mission is to help him find the truth.
 
 -> HOW TO PLAY: 
  
@@ -16,3 +16,10 @@
 * Once getting enough 7 keys, you have to combine them to form a password. 
 
 *Good luck!
+
+------------------------------------------------------------------------
+*Install game and extract it to play*
+
+You must have SDL and Code::block on Windows to run the program
+
+If you dont install SDL yet, go to link https://lazyfoo.net/tutorials/SDL/01_hello_SDL/windows/codeblocks/index.php
